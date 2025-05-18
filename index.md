@@ -1,38 +1,48 @@
-# 🤖 Romercio Bot – Terms of Service (ToS)
+🤖 Romercio Bot – Terms of Service (ToS)
+1. Usage Requirements
+Use of the bot is restricted to users with specific Discord roles (Booster, Customer, Customer+).
 
-## 1. Nutzungsvoraussetzungen
-- Die Nutzung ist nur für Nutzer mit bestimmten Discord-Rollen erlaubt (Booster, Customer, Customer+).
-- Gebannte Nutzer können keine Codes anfordern.
+Banned users are not allowed to request codes.
 
-## 2. Funktionen des Bots
-- `/getcode`: Wöchentlicher Rabattcode (1x pro Woche)
-- `/rafflecode`: Öffentlicher Verlosungscode – sichtbar für alle im Channel
-- `/grantcode`: Admin-only Codevergabe
-- Weitere Befehle: /userinfo, /botstatus, /codehistory etc.
+2. Bot Features
+/getcode: Weekly discount code (once per week)
+/giveaway: Public giveaway code – visible to everyone in the channel
+/grantcode: Admin-only code assignment
+Other commands: /userinfo, /botstatus, /codehistory, etc.
 
-## 3. Nutzungsregeln
-- Kein Missbrauch durch Mehrfachkonten, Scripts oder Weitergabe
-- Keine Umgehung von Einschränkungen oder Banns
-- Verstöße führen zu permanentem Ausschluss
+3. Usage Rules
+No abuse through multiple accounts, scripts, or code sharing
 
-## 4. Bannsystem
-- Admins können Benutzer bannen
-- Gebannte Benutzer erhalten keine Codes
-- Banns werden im Bot protokolliert
+Circumventing restrictions or bans is prohibited
 
-## 5. Datenschutz
-- Temporär gespeichert werden:
-  - Discord-ID
-  - Zeitpunkt letzter Codevergabe
-  - Sondercode-Status
-- Daten dienen nur der Codeverwaltung und werden nicht weitergegeben
+Violations will result in permanent exclusion
 
-## 6. Haftungsausschluss
-- Keine Garantie auf Codezustellung oder Funktionsfähigkeit
-- Fehler durch z. B. geschlossene DMs liegen nicht in unserer Verantwortung
+4. Ban System
+Admins can ban users
 
-## 7. Änderungen
-- Änderungen der TOS jederzeit möglich
-- Mit Nutzung des Bots akzeptierst du die jeweils gültige Fassung
+Banned users will not receive codes
 
-**Letzte Aktualisierung:** Mai 2025
+All bans are logged by the bot
+
+5. Data Protection
+The following data is stored temporarily:
+
+Discord user ID
+
+Timestamp of last code received
+
+Manual/special code status
+
+This data is only used for code management and is not shared.
+
+6. Disclaimer
+No guarantee of code delivery or bot functionality
+
+Issues such as closed DMs are the user’s responsibility
+
+7. Changes
+These terms may be updated at any time
+
+By using the bot, you accept the currently valid version
+
+Last updated: May 2025
